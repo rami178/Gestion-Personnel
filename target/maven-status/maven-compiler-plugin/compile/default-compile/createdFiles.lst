@@ -1,0 +1,10 @@
+net\personnel\usermanagement\web\PersonnelServlet.class
+net\personnel\usermanagement\dao\PersonnelDOA.class
+net\personnel\usermanagement\dao\LoginDao.class
+net\personnel\usermanagement\model\User.class
+net\personnel\usermanagement\model\Personnel.class
+net\personnel\usermanagement\web\UserControllerF.class
+net\personnel\usermanagement\utils\JDBCUtils.class
+net\personnel\usermanagement\web\UserController.class
+net\personnel\usermanagement\dao\UserDao.class
+net\personnel\usermanagement\model\LoginBean.class
