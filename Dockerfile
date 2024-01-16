@@ -1,4 +1,3 @@
-FROM tomcat:jre8-alpine
-LABEL MAINTAINER "Rami Khemiri"
-EXPOSE 8080
-CMD ["catalina.sh", "run"]
+FROM java:8
+COPY ./target/Gestion-Personnel-0.0.1-SNAPSHOT.war Gestion-Personnel-0.0.1-SNAPSHOT.war
+ENTRYPOINT ["java", "-jar", "Gestion-Personnel-0.0.1-SNAPSHOT.war"]
