@@ -41,7 +41,7 @@
 	</div>
 	
     <div style="width: 70%;justify-content: center;display:flex;margin-bottom: 5%"class="container">
-	<div  style="width:70%; border: 10px groove #3318e6;background-color: #D3FFD4;" class="card">
+	<div  style="width:70%; border: 10px groove #2BF905;background-color: #D3FFD4;" class="card">
 	<div style="width: 100%;justify-content: center;display:flex;padding-top: 5%;padding-bottom: 5%"class="container">
 	<div  class="col-md-6 col-md-offset-3">
 	
