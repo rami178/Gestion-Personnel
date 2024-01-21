@@ -37,11 +37,11 @@
 	<div >
 	<br><br><br><br>
 	<h1 style=" width:100%;font-weight: 900" class="text-center">Inscription</h1>
-			<hr style="width: 90%;border: 5px outset #33F3FF;">
+			<hr style="width: 90%;border: 5px outset #1D5DF0;">
 	</div>
 	
     <div style="width: 70%;justify-content: center;display:flex;margin-bottom: 5%"class="container">
-	<div  style="width:70%; border: 10px groove #2BF905;background-color: #D3FFD4;" class="card">
+	<div  style="width:70%; border: 10px groove #FF6347;background-color: #F0F8FF;" class="card">
 	<div style="width: 100%;justify-content: center;display:flex;padding-top: 5%;padding-bottom: 5%"class="container">
 	<div  class="col-md-6 col-md-offset-3">
 	
@@ -49,25 +49,25 @@
 				<form action="<%=request.getContextPath()%>/registerF" method="post">
 
 					<div style="text-align: center;font-weight: 900;font-style:oblique;font-size: x-large;" class="form-group">
-						<label  for="uname">Prénom</label> <input style="border: 4px double #2BF905;font-weight: 900;text-align: center;font-size: large;color:#1C006C" type="text"
+						<label  for="uname">Prénom</label> <input style="border: 4px double #FF6347;font-weight: 900;text-align: center;font-size: large;color:#1C006C" type="text"
 							class="form-control" id="uname" placeholder="Entrer le Prénom"
 							name="firstName" required>
 					</div>
 
 					<div style="text-align: center;font-weight: 900;font-style:oblique;font-size: x-large;" class="form-group">
-						<label for="uname">Nom</label> <input style="border: 4px double #2BF905;font-weight: 900;text-align: center;font-size: large;color:#1C006C" type="text"
+						<label for="uname">Nom</label> <input style="border: 4px double #FF6347;font-weight: 900;text-align: center;font-size: large;color:#1C006C" type="text"
 							class="form-control" id="uname" placeholder="Entrer le Nom"
 							name="lastName" required>
 					</div>
 
 					<div style="text-align: center;font-weight: 900;font-style:oblique;font-size: x-large;" class="form-group">
-						<label for="uname">Nom d'utilisateur</label> <input style="border: 4px double #2BF905;font-weight: 900;text-align: center;font-size: large;color:#1C006C" type="text"
+						<label for="uname">Nom d'utilisateur</label> <input style="border: 4px double #FF6347;font-weight: 900;text-align: center;font-size: large;color:#1C006C" type="text"
 							class="form-control" id="username" placeholder="Entrer le Nom d'utilisateur"
 							name="username" required>
 					</div>
 
 					<div style="text-align: center;font-weight: 900;font-style:oblique;font-size: x-large;" class="form-group">
-						<label for="uname">Mot de passe</label> <input style="border: 4px double #2BF905;font-weight: 900;text-align: center;font-size: large;color:#1C006C" type="password"
+						<label for="uname">Mot de passe</label> <input style="border: 4px double #FF6347;font-weight: 900;text-align: center;font-size: large;color:#1C006C" type="password"
 							class="form-control" id="password" placeholder="Entrer le Mot de passe"
 							name="password" required>
 					</div>
