@@ -72,7 +72,7 @@
 							name="password" required>
 					</div>
 
-					<button style ="width:60%;margin-left:25%;font-weight: 900;font-style: oblique;font-size: large;background-color:  #1D5DF0 " type="submit" class="btn btn-primary">Enregistrer</button>
+					<button style ="width:60%;margin-left:22%;font-weight: 900;font-style: oblique;font-size: large;background-color:  #1D5DF0 " type="submit" class="btn btn-primary">Enregistrer</button>
 
 				</form>
 			</div>
