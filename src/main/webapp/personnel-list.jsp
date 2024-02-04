@@ -95,7 +95,7 @@
 			<table style="width: 130%; border: 3px solid black;"class="table table-bordered">
 				<thead>
 					<tr style="text-align:center;font-size: large;font-style:oblique; background-color: #C4FFBA ; border: 3px solid black;">
-						<th  style="border: 3px solid black; ">الإعدادات</th>
+						<th  style="border: 3px solid rgb(219, 14, 14); ">الإعدادات</th>
 						<th style="border: 3px solid black;">العنوان</th>
 						<th style="border: 3px solid black;">الهاتف</th>
 						<th style="border: 3px solid black;">البريد الإلكتوني</th>
