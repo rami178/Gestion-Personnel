@@ -96,9 +96,9 @@
 				<thead>
 					<tr style="text-align:center;font-size: large;font-style:oblique; background-color: #C4FFBA ; border: 3px solid black;">
 						<th  style="border: 3px solid black; ">الإعدادات</th>
-						<th style="border: 3px solid black;">البريد الإلكتوني</th>
-						<th style="border: 3px solid black;">الهاتف</th>
 						<th style="border: 3px solid black;">العنوان</th>
+						<th style="border: 3px solid black;">الهاتف</th>
+						<th style="border: 3px solid black;">البريد الإلكتوني</th>
 						<th style="border: 3px solid black;">مكان العمل</th>
 						<th style="border: 3px solid black;">الرتبة</th>
 						<th style="border: 3px solid black;">الإسم و اللقب</th>
