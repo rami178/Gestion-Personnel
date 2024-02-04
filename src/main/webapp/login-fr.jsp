@@ -10,7 +10,7 @@
 	integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
 	crossorigin="anonymous">
 </head>
-<body style="background-color:green">
+<body>
 
 	<jsp:include page="header-fr.jsp"></jsp:include>
 	<div style="margin-top:5%;  width: 30%;justify-content: center;overflow: auto; " class="container col-md-8 col-md-offset-3">
