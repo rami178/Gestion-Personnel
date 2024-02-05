@@ -13,7 +13,7 @@
 <body>
 
 	<jsp:include page="header-fr.jsp"></jsp:include>
-	<div style="background-color:yellow; margin-top:5%;  width: 30%;justify-content: center;overflow: auto; " class="container col-md-8 col-md-offset-3">
+	<div style=" margin-top:5%;  width: 30%;justify-content: center;overflow: auto; " class="container col-md-8 col-md-offset-3">
 		<h1> Connexion au compte</h1>
 		<form action="<%=request.getContextPath()%>/fr" method="post">
 
